@@ -1,0 +1,25 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+
+# IDE folders
+.vscode/
+.idea/
+
+# Database local files
+*.db
+*.sqlite
+
+# Backup files
+*.sql.bak
+
+# Environment files
+.env
